@@ -2,5 +2,6 @@
 
 PIL package is required
 
-Type in Command Prompt
+Type in Command Prompt:
+
 pip install Pillow
